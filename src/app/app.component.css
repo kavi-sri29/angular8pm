@@ -1,0 +1,15 @@
+.form-group{
+    display: flex;
+    flex-direction: column;
+    
+}
+.form-control{
+    width: 20pc;
+    text-align: center;
+    margin-left: 7%;
+}
+.btn{
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
